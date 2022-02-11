@@ -1,5 +1,5 @@
 # Partial Restriction Digest
-> This experiment generates the set of all possible restriction fragment bewtwween every two ( not necessarily consecutive ) cuts.
+> This experiment generates the set of all possible restriction fragment between every two ( not necessarily consecutive ) cuts.
 
 > Algorthim 1 print the fragment that result from the locations of DNA after preform the experiment.
 
